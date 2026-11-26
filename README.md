@@ -27,8 +27,7 @@ I build end-to-end web applications and automations that eliminate repetitive ma
 | --- | --- | --- |
 | [**AKI Delivery**](https://github.com/camilasatie99/delivery-platform) | A team-built ordering platform for local neighborhood restaurants. I built the order service and the React interfaces. | Java · Spring Boot · React · PostgreSQL · MongoDB |
 | [**Library Management System**](https://github.com/camilasatie99/sistema-biblioteca-java-sql) | Book loans, borrowing limits, and late fees built with object-oriented programming and analytical SQL. | Java · PostgreSQL |
-| [**Pequenas Ações (Small Actions)**](https://github.com/camilasatie99/pequenas-acoes) | Screen-free missions for kids, verified by an adult, with rewards donated by the community. UNINTER university extension project. | JavaScript · HTML & CSS · node:test · GitHub Actions |
-
+| [**Pequenas Ações (Small Actions)**](https://github.com/camilasatie99/pequenas-acoes) | Screen-free missions for kids, verified by an adult, with rewards donated by the community. REST API with a database, sign-in and tests. UNINTER university extension project. | Python · Flask · SQLite · JWT · JavaScript · Docker · pytest |
 ### Daily Tools
 
 `Java` `Spring Boot` `React` `TypeScript` `Node.js` `Python` `PostgreSQL` `MongoDB` `Docker` `AWS` `Git` `GitHub Actions` `JUnit` `Vitest` `RPA` `Datadog` `Dynatrace`
